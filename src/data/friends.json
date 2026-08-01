@@ -8,6 +8,12 @@
     "favoriteEmoji": "❤️",
     "favoriteColor": "#22D3EE",
     "quote": "You are one of the best chapters of my life.That I never want it to END",
+    "song": {
+      "title": "Kesariya / Tera Ban Jaunga",
+      "artist": "Arijit Singh",
+      "src": "https://audio.com/kazi-samiul-haque-adrik/audio/tera-ban-jaunga",
+      "dedication": "For the one who holds my hand in every crowd and makes my world complete."
+    },
     "passwordQuestions": [
       { "question": "What nickname do I call you?", "answer": "Poplu" },
       { "question": "Which place did we first meet?", "answer": "College" },
@@ -18,19 +24,19 @@
     ],
     "memories": [
       {
-        "image": "/memories/vansh-1.jpg",
+        "image": "/memories/vc.jpg",
         "title": "The Day I Fell In Love With You",
         "description": "When You hold My hand taking me out from crowd.",
         "date": "1st Oct 2022"
       },
       {
-        "image": "/memories/vansh-2.jpg",
+        "image": "/memories/vc2.jpg",
         "title": "Your Birthday",
         "description": "This Day I feel proud that I fullfill some of your dream.",
         "date": "28th Nov 2023"
       },
       {
-        "image": "/memories/vansh-3.jpg",
+        "image": "/memories/vc1.jpg",
         "title": "Late Night Fun",
         "description": "This is the moment I realize how much you love me more than your sleep",
         "date": "Late night, forever memory"
@@ -62,33 +68,38 @@
     "favoriteEmoji": "🤗",
     "favoriteColor": "#EC4899",
     "quote": "You are the brother & friend I got to choose.",
+    "song": {
+      "title": "Yaar Mod Do",
+      "artist": "Guru Randhawa",
+      "src": "https://audio.com/evenpot-1/audio/count-on-me",
+      "dedication": "To the brother who is always a phone call away, waiting for our next trip reunion!"
+    },
     "passwordQuestions": [
       { "question": "What nickname do I call you?", "answer": "Fakeuchand" },
       { "question": "Which place did we first meet?", "answer": "College" },
-      { "question": "What's our company name that we are going to give?", "answer": "Baackchodians" },
+      { "question": "What's our company name that we are going to give?", "answer": "Backchodians" },
       { "question": "Where is our first and best trip?", "answer": "Udaipur" },
       { "question": "When You came to meet me at my home?", "answer": "24th May" }
     ],
     "memories": [
       {
-        "image": "/memories/ananya-1.jpg",
+        "image": "/memories/s&p.jpg",
         "title": "First Trip",
         "description": "Three Days, unforgetable memories , a friendship for life.",
         "date": "2023"
       },
       {
-        "image": "/memories/ananya-3.jpg",
+        "image": "/memories/S&p1.jpg",
         "title": "Dandiya Night",
         "description": "The countless icecream with countless talks and funny memories.",
         "date": "2024"
       },
       {
-        "image": "/memories/ananya-2.jpg",
+        "image": "/memories/s&p3.jpg",
         "title": "The Lakshay Night",
         "description": "Screamed every lyric, lost our voices, no regrets.",
         "date": "26th Feb 2025"
       }
-      
     ],
     "specialQualities": [
       { "emoji": "😊", "text": "Your smile" },
@@ -114,32 +125,36 @@
     "favoriteEmoji": "🤗",
     "favoriteColor": "#EC4899",
     "quote": "You are the brother & friend I got to choose.",
+    "song": {
+      "title": "Tera Yaar Hoon Main",
+      "artist": "Arijit Singh",
+      "src": "https://audio.com/evenpot-1/audio/count-on-me",
+      "dedication": "For the deep thinker who guides us through everything and stays solid no matter what."
+    },
     "passwordQuestions": [
-      { "question": "What nickname do I call you?", "answer": "overthinker" },
       { "question": "Which place did we first meet?", "answer": "College" },
-      { "question": "What's our company name that we are going to give?", "answer": "Baackchodians" },
+      { "question": "What's our company name that we are going to give?", "answer": "Backchodians" },
       { "question": "Where is our first and best trip?", "answer": "Udaipur" }
     ],
     "memories": [
       {
-        "image": "/memories/ananya-1.jpg",
+        "image": "/memories/s&p.jpg",
         "title": "First Trip",
         "description": "Three Days, unforgetable memories , a friendship for life.",
         "date": "2023"
       },
       {
-        "image": "/memories/ananya-3.jpg",
+        "image": "/memories/S&p1.jpg",
         "title": "Dandiya Night",
         "description": "The countless icecream with countless talks and funny memories.",
         "date": "2024"
       },
       {
-        "image": "/memories/ananya-2.jpg",
+        "image": "/memories/s&p3.jpg",
         "title": "The Lakshay Night",
         "description": "Screamed every lyric, lost our voices, no regrets.",
         "date": "26th Feb 2025"
       }
-      
     ],
     "specialQualities": [
       { "emoji": "😊", "text": "Your smile" },
@@ -155,15 +170,21 @@
       { "icon": "😊", "title": "Caring" }
     ]
   },
-   {
+  {
     "id": "ayushi",
     "name": "Ayushi",
     "gender": "female",
     "nickname": "Chuhiya",
     "friendshipYears": 8,
-    "favoriteEmoji": "❤️🤗❤️",
+    "favoriteEmoji": "❤️🤗",
     "favoriteColor": "#EC4899",
     "quote": "You are the sister & friend I got to choose.",
+    "song": {
+      "title": "Tere Jaisa Yaar Kahan",
+      "artist": "Kishore Kumar",
+      "src": "https://audio.com/rajesh-hingoranee/audio/tere-jaisa-yaar-kahan",
+      "dedication": "8 years of pure bonding and endless school memories that will last a lifetime!"
+    },
     "passwordQuestions": [
       { "question": "What nickname do I call you?", "answer": "Chuhiya" },
       { "question": "Which place did we first meet?", "answer": "School" },
@@ -171,13 +192,13 @@
     ],
     "memories": [
       {
-        "image": "/memories/ananya-1.jpg",
+        "image": "/memories/ayushi.jpg",
         "title": "Cafe Meet",
         "description": "Three hours, unforgetable memories , a friendship for life.",
         "date": "2023"
       },
       {
-        "image": "/memories/ananya-3.jpg",
+        "image": "/memories/ayushi1.jpg",
         "title": "Dandiya Night",
         "description": "The place where we enjoyed and have fun"
       }
@@ -202,9 +223,15 @@
     "gender": "female",
     "nickname": "panda",
     "friendshipYears": 1.2,
-    "favoriteEmoji": "❤️🤗❤️",
+    "favoriteEmoji": "❤️🤗",
     "favoriteColor": "#EC4899",
     "quote": "You are the sister & friend I got to choose and given by office politics.",
+    "song": {
+      "title": "Yeh Dosti Hum Nahi Todenge",
+      "artist": "Kishore Kumar & Manna Dey",
+      "src": "https://audio.com/evenpot-1/audio/count-on-me",
+      "dedication": "Dedicated to my ultimate office foodie partner. Missing 'Diya Ma'am icecream khaye!' days."
+    },
     "passwordQuestions": [
       { "question": "What nickname do I call you?", "answer": "Panda" },
       { "question": "Which place did we first meet?", "answer": "Office" },
@@ -212,22 +239,16 @@
     ],
     "memories": [
       {
-        "image": "/memories/ananya-1.jpg",
+        "image": "/memories/d1.jpg",
         "title": "Diwali",
         "description": "Three hours, unforgetable memories , a friendship for life.",
         "date": "2025"
       },
       {
-        "image": "/memories/ananya-3.jpg",
+        "image": "/memories/d2.jpg",
         "title": "Random Day",
         "description": "The day we had so much fun trolling office outfit recommendations, taking a ton of photos, and just enjoying every bit of it.",
         "date": "2025"
-      },
-      {
-        "image": "/memories/ananya-3.jpg",
-        "title": "Last Day In Office",
-        "description": "The day we realized we could no longer just say 'chalo, kal milte hain' — but that never changed our friendship.",
-        "date": "2026"
       }
     ],
     "specialQualities": [
@@ -253,6 +274,12 @@
     "favoriteEmoji": "🤗",
     "favoriteColor": "#EC4899",
     "quote": "You are the brother & friend I got to choose.",
+    "song": {
+      "title": "Purani Jeans",
+      "artist": "Ali Haider",
+      "src": "https://audio.com/rajesh-hingoranee/audio/tere-jaisa-yaar-kahan",
+      "dedication": "8 years of school nostalgia, banter, and a bond that remains forever unchanged."
+    },
     "passwordQuestions": [
       { "question": "What nickname do I call you?", "answer": "Kittu" },
       { "question": "Which place did we first meet?", "answer": "School" },
@@ -260,13 +287,13 @@
     ],
     "memories": [
       {
-        "image": "/memories/ananya-1.jpg",
+        "image": "/memories/harsh2.jpeg",
         "title": "My Birthday",
         "description": "Three hours, unforgetable memories , a friendship for life.",
         "date": "2021"
       },
       {
-        "image": "/memories/ananya-3.jpg",
+        "image": "/memories/harsh.jpg",
         "title": "Recent Meet",
         "description": "The day we had so much fun.",
         "date": "2026"
@@ -292,9 +319,15 @@
     "gender": "female",
     "nickname": "chulbul",
     "friendshipYears": 3,
-    "favoriteEmoji": "❤️🤗❤️",
+    "favoriteEmoji": "❤️🤗",
     "favoriteColor": "#EC4899",
     "quote": "You are the friend I got to choose and given by paras.",
+    "song": {
+      "title": "Illahi / Ve Maahi",
+      "artist": "Arijit Singh",
+      "src": "https://audio.com/rajesh-hingoranee/audio/tere-jaisa-yaar-kahan",
+      "dedication": "For Chulbul, who brings pure energy, endless talks, and unforgettable concert night vibes!"
+    },
     "passwordQuestions": [
       { "question": "Which place did we first meet?", "answer": "College" },
       { "question": "What was our special memory Placed?", "answer": "College" },
@@ -302,24 +335,23 @@
     ],
     "memories": [
       {
-        "image": "/memories/ananya-1.jpg",
+        "image": "/memories/parul3.jpg",
         "title": "First Trip",
         "description": "Three Days, unforgetable memories , a friendship for life.",
         "date": "2023"
       },
       {
-        "image": "/memories/ananya-3.jpg",
+        "image": "/memories/parul.jpg",
         "title": "Dandiya Night",
         "description": "The vibe the dance.",
         "date": "2024"
       },
       {
-        "image": "/memories/ananya-2.jpg",
+        "image": "/memories/parul2.jpg",
         "title": "The Lakshay Night",
         "description": "Screamed every lyric, lost our voices, no regrets.",
         "date": "26th Feb 2025"
       }
-      
     ],
     "specialQualities": [
       { "emoji": "😊", "text": "Your smile" },
@@ -336,15 +368,21 @@
       { "icon": "😂", "title": "Talkative" }
     ]
   },
-   {
+  {
     "id": "mahima",
     "name": "Mahima",
     "gender": "female",
-    "nickname": "Mahima",
+    "nickname": "chibi",
     "friendshipYears": 3,
-    "favoriteEmoji": "❤️🤗❤️",
+    "favoriteEmoji": "❤️🤗",
     "favoriteColor": "#EC4899",
     "quote": "You are the friend I got to choose.",
+    "song": {
+      "title": "Dil Chahta Hai",
+      "artist": "Shankar Mahadevan",
+      "src": "https://audio.com/rajesh-hingoranee/audio/tere-jaisa-yaar-kahan",
+      "dedication": "For being the peacekeeper, the room cleaner, and true family in every situation!"
+    },
     "passwordQuestions": [
       { "question": "Which place did we first meet?", "answer": "College" },
       { "question": "What was our special memory Placed?", "answer": "Flat" },
@@ -352,26 +390,25 @@
     ],
     "memories": [
       {
-        "image": "/memories/ananya-1.jpg",
+        "image": "/memories/m2.jpg",
         "title": "First Trip",
         "description": "Three Days, unforgetable memories , a friendship for life.",
         "date": "2023"
       },
       {
-        "image": "/memories/ananya-3.jpg",
+        "image": "/memories/mahima.jpg",
         "title": "Dandiya Night",
         "description": "The vibe the dance.The get ready fun.",
         "date": "2024"
       },
       {
-        "image": "/memories/ananya-2.jpg",
+        "image": "/memories/mahima1.jpg",
         "title": "My Brithday",
         "description": "lots of fun",
         "date": "1st July 2026"
       }
-      
-    ], 
-     "specialQualities": [
+    ],
+    "specialQualities": [
       { "emoji": "😂", "text": "Your Laugh Like Camel" },
       { "emoji": "🤗", "text": "Your kindness , support & positivity" },
       { "emoji": "🌸", "text": "Your soul" }
@@ -393,6 +430,12 @@
     "favoriteEmoji": "🤗",
     "favoriteColor": "#EC4899",
     "quote": "You are the friend I got to choose.",
+    "song": {
+      "title": "Gallan Goodiyaan",
+      "artist": "Yashita Sharma, Farhan Akhtar",
+      "src": "https://audio.com/rajesh-hingoranee/audio/tere-jaisa-yaar-kahan",
+      "dedication": "To the brother who brings pure excitement and treats me like his own younger sister!"
+    },
     "passwordQuestions": [
       { "question": "Which place did we first meet?", "answer": "College" },
       { "question": "What was our special memory Placed?", "answer": "Flat" },
@@ -400,26 +443,25 @@
     ],
     "memories": [
       {
-        "image": "/memories/ananya-1.jpg",
+        "image": "/memories/anmol.jpeg",
         "title": "First Trip",
         "description": "Three Days, unforgetable memories , a friendship for life.",
         "date": "2023"
       },
       {
-        "image": "/memories/ananya-3.jpg",
+        "image": "/memories/vcma.jpg",
         "title": "Dandiya Night",
         "description": "The vibe the dance.The get ready fun.",
         "date": "2024"
       },
       {
-        "image": "/memories/ananya-2.jpg",
+        "image": "/memories/anmol2.jpeg",
         "title": "My Brithday",
         "description": "lots of fun",
         "date": "1st July 2026"
       }
-      
-    ], 
-     "specialQualities": [
+    ],
+    "specialQualities": [
       { "emoji": "😂", "text": "Your Laugh Like Horse" },
       { "emoji": "🌸", "text": "Your Over Excitment" }
     ],
